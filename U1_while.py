@@ -6,6 +6,7 @@
 ## prints 10
 ## prints Goodbye
 
+
 n = 2
 while ( n >= 2 and n <=10):
     print(n)
