@@ -77,7 +77,7 @@ def getWordScore(word, n):
     # Store the length since we'll use it more than once
     word_len = len(word)
 
-    # Score times the number of letters
+    # Score times the number of letters 
     score *= word_len
 
     # Plus 50 bonus points if used all letters on the first play (n == 7)
